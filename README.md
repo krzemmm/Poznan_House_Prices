@@ -2,7 +2,7 @@
 
 # Przewidywanie Ceny Mieszkań w Poznaniu
 
-To jest projekt oparty na uczeniu maszynowym, który ma na celu przewidywanie cen mieszkań w Poznaniu na podstawie dostępnych danych. W projekcie wykorzystano techniki analizy danych oraz uczenia maszynowego w języku Python, korzystając z popularnych bibliotek takich jak Pandas, NumPy, Matplotlib oraz Scikit-Learn.
+Jest to projekt oparty na uczeniu maszynowym, który ma na celu przewidywanie cen mieszkań w Poznaniu na podstawie dostępnych danych. W projekcie wykorzystano techniki analizy danych oraz uczenia maszynowego w języku Python, korzystając z popularnych bibliotek takich jak Pandas, NumPy, Matplotlib oraz Scikit-Learn.
 
 ## Cel projektu
 
@@ -10,7 +10,7 @@ Celem tego projektu jest zbudowanie modelu przewidującego ceny mieszkań w Pozn
 
 ## Dane
 
-Do tego projektu zostały wykorzystane dane dotyczące transakcji nieruchomości w Poznaniu, takie jak liczba pokoi, lokalizacja, metraż, rok budowy, piętro, liczba pięter w budynku, oraz cena sprzedaży. Dane te zostały zebrane ze źródeł publicznie dostępnych, takich jak serwisy ogłoszeniowe i portale nieruchomości. Dane zostały wcześniej przetworzone i oczyzczone w celu przygotowania ich do analizy i uczenia maszynowego.
+Do tego projektu zostały wykorzystane dane dotyczące transakcji nieruchomości w Poznaniu, takie jak liczba pokoi, lokalizacja, metraż, rok budowy, piętro,  oraz cena sprzedaży. Dane te zostały zebrane ze źródeł publicznie dostępnych, takich jak serwisy ogłoszeniowe i portale nieruchomości.
 
 ## Metoda
 
@@ -32,7 +32,7 @@ The goal of this project is to build a model for predicting housing prices in Po
 
 ## Data
 
-For this project, data on real estate transactions in Poznan was used, including features such as number of rooms, location, area, year of construction, floor, number of floors in the building, and sale price. This data was collected from publicly available sources, such as advertising websites and real estate portals. The data was preprocessed and cleaned in advance to prepare it for analysis and machine learning.
+For this project, data on real estate transactions in Poznan was used, including features such as number of rooms, location, area, year of construction, floor, and sale price. This data was collected from publicly available sources, such as advertising websites and real estate portals.
 
 ## Method
 

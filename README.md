@@ -1,6 +1,6 @@
 # Poznan_House_Prices
 
-# Przewidywanie Ceny Mieszkań w Poznaniu
+# Przewidywanie Cen Mieszkań w Poznaniu
 
 Jest to projekt oparty na uczeniu maszynowym, który ma na celu przewidywanie cen mieszkań w Poznaniu na podstawie dostępnych danych. W projekcie wykorzystano techniki analizy danych oraz uczenia maszynowego w języku Python, korzystając z popularnych bibliotek takich jak Pandas, NumPy, Matplotlib oraz Scikit-Learn.
 

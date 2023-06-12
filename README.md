@@ -26,7 +26,7 @@ Po przeprowadzeniu analizy i trenowania modelu, uzyskano zadowalające wyniki pr
 
 This is a machine learning project aimed at predicting housing prices in Poznan, Poland, based on available data. The project utilizes data analysis and machine learning techniques in Python, using popular libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn.
 
-## Project Goal
+## Project goal
 
 The goal of this project is to build a model for predicting housing prices in Poznan based on historical data. This model can be used by potential buyers or sellers of real estate in Poznan to assess the value of properties in the real estate market. Additionally, it can also be used by developers or real estate agencies to determine sales or rental prices of properties.
 
